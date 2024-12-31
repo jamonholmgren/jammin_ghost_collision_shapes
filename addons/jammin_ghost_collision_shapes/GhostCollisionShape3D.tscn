@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://c7tadjxld6jm8"]
+
+[ext_resource type="Script" path="res://addons/jammin_ghost_collision_shapes/GhostCollisionShape3D.gd" id="1_pb0cx"]
+
+[node name="GhostCollisionShape3D" type="CollisionShape3D"]
+script = ExtResource("1_pb0cx")
