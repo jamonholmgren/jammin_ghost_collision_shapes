@@ -2,9 +2,15 @@
 
 Ever had trouble seeing your collision shapes? This tiny addon gives you editor-only ghostly collision shapes (meshes) that mimic your collision shapes, so it's easy to see where they are and how well they match up to your models. You can turn them on and off with a simple checkbox, and during the game they act as simple CollisionShape3Ds.
 
+![GhostCollisionShape3D](https://github.com/user-attachments/assets/754c7229-4e0b-4708-b526-6474e5fd742f)
+
+![Editor view](https://github.com/user-attachments/assets/1dc4420b-6e51-44bd-a419-3c235474a45f)
+
 Watch the YouTube short here:
 
-[![YouTube](https://img.youtube.com/vi/vAEnK6GwZ5g/hqdefault.jpg)](https://www.youtube.com/shorts/vAEnK6GwZ5g)
+<a href="https://youtube.com/shorts/hm1-zX81HA0" alt="YouTube Short about GhostCollisionShape3D">
+<img width="200" src="https://img.youtube.com/vi/hm1-zX81HA0/hqdefault.jpg?" alt="YouTube Short about GhostCollisionShape3D">
+</a>
 
 Find more info about this, and more, at [jammin.games](https://jammin.games).
 
