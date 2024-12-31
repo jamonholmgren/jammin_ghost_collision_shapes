@@ -30,7 +30,6 @@ Currently supported shapes:
 - BoxShape3D
 - CapsuleShape3D
 - CylinderShape3D
-- CapsuleShape3D
 
 Shapes not yet supported:
 

@@ -51,10 +51,6 @@ func _enable_editor_debug_shape(value: bool):
 		mi.mesh.top_radius = shape.radius
 		mi.mesh.bottom_radius = shape.radius
 		mi.mesh.height = shape.height
-	elif shape is CapsuleShape3D:
-		mi.mesh = CapsuleMesh.new()
-		mi.mesh.radius = shape.radius
-		mi.mesh.height = shape.height
 	else:
 		push_error("Unsupported shape: " + shape.get_class())
 		return
