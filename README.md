@@ -2,6 +2,8 @@
 
 Ever had trouble seeing your collision shapes? This tiny addon gives you editor-only ghostly collision shapes (meshes) that mimic your collision shapes, so it's easy to see where they are and how well they match up to your models. You can turn them on and off with a simple checkbox, and during the game they act as simple CollisionShape3Ds.
 
+> **Note:** Starting with Godot 4.4, collision shapes will have built-in support for custom debug colors! See [godotengine/godot#90644](https://github.com/godotengine/godot/pull/90644). However, this plugin still provides some things like the ghost effect and individual shape control that that won't be available in the core engine.
+
 ![GhostCollisionShape3D](https://github.com/user-attachments/assets/754c7229-4e0b-4708-b526-6474e5fd742f)
 
 ![Editor view](https://github.com/user-attachments/assets/1dc4420b-6e51-44bd-a419-3c235474a45f)
